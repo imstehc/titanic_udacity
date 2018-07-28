@@ -1,0 +1,4 @@
+Qual a média de idade dos passageiros?
+Havia mais homens ou mulheres entre os sobreviventes?
+Qual a classe que teve mais sobreviventes?
+Quais o fatores que contribuiram para a sobrevivencia de mais mulheres?
