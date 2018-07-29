@@ -1,4 +1,7 @@
-Qual a média de idade dos passageiros?
-Havia mais homens ou mulheres entre os sobreviventes?
-Qual a classe que teve mais sobreviventes?
-Quais o fatores que contribuiram para a sobrevivencia de mais mulheres?
+1. O nível social e economico dos passageiros influenciaram nas chances de sobrevivencia?
+
+2. Havia mais homens ou mulheres de baixos niveis sociais e economicos entre os sobreviventes?
+
+3. Mulheres adultas com criancas e de alta classe social e economica sobreviveram mais do que mulheres adultas sem criancas e de baixa classe?
+
+4. Os passageiros que pertenciam a altas classes sociais e que sobreviveram embarcaram em qual porto?
